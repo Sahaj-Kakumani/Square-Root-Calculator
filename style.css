@@ -1,0 +1,24 @@
+* {
+  font-family: "Space Mono", monospace;
+}
+
+.input {
+  border: 1.5px solid black;
+  border-radius: 100px;
+}
+
+.btn {
+  border: 1.5px solid black;
+  border-radius: 100px;
+}
+
+.content-container {
+  display: block;
+  margin: auto;
+  width: 40%;
+  text-align: center;
+}
+
+.answer {
+  font-size: 25px;
+}
